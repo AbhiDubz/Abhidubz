@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,45:6f42c1,100:e535ab&height=220&section=header&text=Abhiram%20Somisetty&fontColor=ffffff&fontSize=50&fontAlignY=36&animation=twinkling&desc=I%20ship%20products%20and%20do%20applied%20ML%20research&descAlignY=58&descSize=17" alt="header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00e0d0&height=220&section=header&text=Abhiram%20Somisetty&fontColor=e6edf3&fontSize=50&fontAlignY=36&animation=twinkling&desc=%3C%20building%20full-stack%20%2F%3E&descAlignY=58&descSize=18" alt="header banner" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&center=true&vCenter=true&width=620&lines=From+nuclear+reactors+to+sneaker+trackers;Full-stack+products+%2B+applied+ML+research;CS+%40+Paul+G.+Allen+School%2C+UW+Seattle;If+it's+interesting%2C+I'll+build+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&center=true&vCenter=true&width=620&lines=From+options+pricing+to+sign-language+vision;Full-stack+products%2C+end+to+end;CS+%40+Paul+G.+Allen+School%2C+UW+Seattle;If+it's+interesting%2C+I'll+build+it" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👋 Whoami
 
-I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems that don't fit in one box. I've optimized **nuclear reactors**, broken **neural nets with adversarial attacks**, written **autonomous robot control**, and shipped **full-stack apps** — usually in the same month. I care about things that actually run and numbers that actually move.
+I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems that don't fit in one box — from real-time finance tools to computer-vision apps that run right in the browser. I build across the whole stack and care about things that actually ship and actually run.
 
-📍 Bothell, WA · 🎓 Graduating 2026 · 🌐 [abhirams.dev](https://abhirams.dev/) · 🤝 Open to internships & collabs
+📍 Seattle, WA · 🎓 Class of 2023 · 🌐 [abhirams.dev](https://abhirams.dev/) · 🤝 Open to internships & collabs
 
 ---
 
@@ -26,15 +26,6 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
 | 🎵 **VibeSound** | Mood-to-music translator that generates playlists from emotions |
 
 <sub>More at **[abhirams.dev](https://abhirams.dev/)** →</sub>
-
----
-
-### 🔬 Research & Work — where the numbers moved
-
-- ☢️ **Doubled** reactor neutron yield · Northwest Nuclear Labs
-- 📈 Scaled an awareness app to **10K users** · Quadrant Technologies *(3rd place, intern competition)*
-- ✉️ **+15%** outreach via an automated email pipeline · Abivo
-- 🧪 Applied ML & reactor-optimization research · AIMS Lab (U-Michigan), SEAL Lab (UW), UW Bothell (adversarial ML / FGSM)
 
 ---
 
@@ -87,4 +78,4 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&reversed=true&color=0:00b4d8,45:6f42c1,100:e535ab&height=120&section=footer" alt="footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&reversed=true&color=0:0d1117,50:1f6feb,100:00e0d0&height=120&section=footer" alt="footer banner" />
