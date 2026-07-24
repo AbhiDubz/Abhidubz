@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/matrix-banner.svg" alt="Abhiram Somisetty — Matrix banner" />
+<img width="100%" src="./assets/matrix-rain.svg" alt="Abhiram Somisetty — Matrix banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&center=true&vCenter=true&width=620&lines=From+options+pricing+to+sign-language+vision;Full-stack+products%2C+end+to+end;CS+%40+Paul+G.+Allen+School%2C+UW+Seattle;If+it's+interesting%2C+I'll+build+it" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 Who am I
+### 👋 About
 
 I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems that don't fit in one box — from real-time finance tools to computer-vision apps that run right in the browser. I build across the whole stack and care about things that actually ship and actually run.
 
