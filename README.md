@@ -78,4 +78,4 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&reversed=true&color=0:0d1117,50:1f6feb,100:00e0d0&height=120&section=footer" alt="footer banner" />
+<img width="100%" src="./assets/matrix-footer.svg" alt="thanks for scrolling" />
