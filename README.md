@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhiram</h1>
 <h3 align="center">Data / ML / AI enthusiast — turning data into decisions</h3>
+<h4 align="center">🎓 CS @ Paul G. Allen School</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Machine+Learning+%26+AI;Data+Science+%26+Analytics;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -13,10 +14,11 @@
 
 ### 🚀 About Me
 
+- 🎓 Studying **Computer Science** at the **Paul G. Allen School**
 - 🔭 I work on **machine learning, data science, and AI** projects
 - 🌱 Currently deepening my skills in **deep learning, MLOps, and LLMs**
 - 💬 Ask me about **Python, data pipelines, and ML models**
-- 📫 Reach me at **surya.dusi22@gmail.com**
+- 📫 Reach me at **abhiramsomisetty9@gmail.com**
 - ⚡ Fun fact: I believe the best model is the one that ships
 
 ---
@@ -63,14 +65,13 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="mailto:surya.dusi22@gmail.com">
+  <a href="mailto:abhiramsomisetty9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/AbhiDubz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add your LinkedIn: replace the URL below -->
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/abhiram-somisetty-b99109276">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
