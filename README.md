@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/banner.svg" alt="Abhiram Somisetty — Full-stack Engineer · Applied ML" />
+<img width="100%" src="./assets/banner-aurora.svg" alt="Abhiram Somisetty — Full-stack Engineer · Applied ML" />
 
 ---
 
@@ -54,8 +54,13 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AbhiDubz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiDubz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/AbhiDubz?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAbhiDubz&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=6f42c1&logo=github&logoColor=white" alt="Public repos" />
+  </a>
+  <a href="https://github.com/AbhiDubz?tab=followers">
+    <img src="https://img.shields.io/github/followers/AbhiDubz?label=Followers&style=for-the-badge&color=4f46e5&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/AbhiDubz?label=Stars&style=for-the-badge&color=22d3ee&logo=github&logoColor=white" alt="Stars" />
 </p>
 
 ---

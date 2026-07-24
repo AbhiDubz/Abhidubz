@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="100%" role="img" aria-label="Abhiram Somisetty — Full-stack Engineer, Applied ML">
+  <defs>
+    <style>
+      @keyframes driftA { 0%,100% { transform: translate(0,0); }      50% { transform: translate(48px,26px); } }
+      @keyframes driftB { 0%,100% { transform: translate(0,0); }      50% { transform: translate(-42px,-22px); } }
+      @keyframes driftC { 0%,100% { transform: translate(0,0); }      50% { transform: translate(36px,-30px); } }
+      @keyframes driftD { 0%,100% { transform: translate(0,0); }      50% { transform: translate(-30px,24px); } }
+      @keyframes pulse  { 0%,100% { opacity: .85; }                   50% { opacity: 1; } }
+      @keyframes glint  { 0% { transform: translateX(490px); }        100% { transform: translateX(700px); } }
+      .blobA { animation: driftA 17s ease-in-out infinite, pulse 9s ease-in-out infinite; }
+      .blobB { animation: driftB 21s ease-in-out infinite, pulse 11s ease-in-out infinite; }
+      .blobC { animation: driftC 15s ease-in-out infinite, pulse 8s ease-in-out infinite; }
+      .blobD { animation: driftD 19s ease-in-out infinite; }
+      .glint { animation: glint 3.6s ease-in-out infinite; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#090d1a"/>
+      <stop offset="100%" stop-color="#0d1530"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="gViolet"><stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gIndigo"><stop offset="0%" stop-color="#4f46e5" stop-opacity="0.55"/><stop offset="100%" stop-color="#4f46e5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gCyan"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0.5"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gTeal"><stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.45"/><stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="46"/></filter>
+    <filter id="textglow" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="barClip"><rect x="520" y="126" width="160" height="3" rx="1.5"/></clipPath>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="240" fill="url(#bg)"/>
+
+  <!-- aurora -->
+  <g filter="url(#soft)">
+    <circle class="blobA" cx="330" cy="70"  r="200" fill="url(#gViolet)"/>
+    <circle class="blobB" cx="650" cy="195" r="235" fill="url(#gIndigo)"/>
+    <circle class="blobC" cx="960" cy="55"  r="195" fill="url(#gCyan)"/>
+    <circle class="blobD" cx="520" cy="130" r="170" fill="url(#gTeal)"/>
+  </g>
+
+  <!-- name + taglines (centered) -->
+  <text x="600" y="108" text-anchor="middle" filter="url(#textglow)"
+        font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
+        font-size="44" font-weight="800" fill="#f8fafc" letter-spacing="0.5">Abhiram Somisetty</text>
+
+  <g clip-path="url(#barClip)">
+    <rect x="520" y="126" width="160" height="3" fill="url(#accent)"/>
+    <rect class="glint" x="0" y="126" width="46" height="3" fill="#ffffff" opacity="0.6"/>
+  </g>
+
+  <text x="600" y="156" text-anchor="middle"
+        font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
+        font-size="19" font-weight="600" fill="#aab8d4">Full-stack Engineer &#183; Applied ML</text>
+  <text x="600" y="182" text-anchor="middle"
+        font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="500" fill="#6f80a0">CS @ Paul G. Allen School &#183; UW Seattle</text>
+
+  <!-- bottom accent rule -->
+  <rect x="0" y="237" width="1200" height="3" fill="url(#accent)"/>
+</svg>
