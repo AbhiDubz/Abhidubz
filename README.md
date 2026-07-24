@@ -79,4 +79,4 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
   </a>
 </p>
 
-<img width="100%" src="./assets/footer-aurora.svg" alt="Let's build something great — abhirams.dev" />
+<img width="100%" src="./assets/footer-aurora-v2.svg" alt="Thanks for scrolling — abhirams.dev" />
