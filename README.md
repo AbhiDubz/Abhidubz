@@ -1,8 +1,4 @@
-<img width="100%" src="./assets/matrix-rain.svg" alt="Abhiram Somisetty — Matrix banner" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&center=true&vCenter=true&width=620&lines=From+options+pricing+to+sign-language+vision;Full-stack+products%2C+end+to+end;CS+%40+Paul+G.+Allen+School%2C+UW+Seattle;If+it's+interesting%2C+I'll+build+it" alt="Typing SVG" />
-</p>
+<img width="100%" src="./assets/banner.svg" alt="Abhiram Somisetty — Full-stack Engineer · Applied ML" />
 
 ---
 
@@ -77,5 +73,3 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-<img width="100%" src="./assets/matrix-footer.svg" alt="thanks for scrolling" />

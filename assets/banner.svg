@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="100%" role="img" aria-label="Abhiram Somisetty — Full-stack Engineer, Applied ML">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#0b1120"/>
+      <stop offset="100%" stop-color="#101c33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="88%" cy="12%" r="45%">
+      <stop offset="0%"  stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#2a3a55"/>
+    </pattern>
+    <linearGradient id="dotfade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="dotmask">
+      <rect x="0" y="0" width="1200" height="210" fill="url(#dotfade)"/>
+    </mask>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="210" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="210" fill="url(#dots)" mask="url(#dotmask)" opacity="0.5"/>
+  <rect width="1200" height="210" fill="url(#glow)"/>
+
+  <!-- monogram -->
+  <rect x="64" y="58" width="94" height="94" rx="22" fill="url(#accent)"/>
+  <text x="111" y="106" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
+        font-size="42" font-weight="800" fill="#0b1120">AS</text>
+
+  <!-- name + taglines -->
+  <text x="188" y="92"
+        font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
+        font-size="43" font-weight="800" fill="#f8fafc" letter-spacing="0.5">Abhiram Somisetty</text>
+  <rect x="190" y="106" width="150" height="3" rx="2" fill="url(#accent)"/>
+  <text x="190" y="137"
+        font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
+        font-size="19" font-weight="600" fill="#a9bad2">Full-stack Engineer &#183; Applied ML</text>
+  <text x="190" y="163"
+        font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="500" fill="#6b7c96">CS @ Paul G. Allen School &#183; UW Seattle</text>
+
+  <!-- bottom accent rule -->
+  <rect x="0" y="207" width="1200" height="3" fill="url(#accent)"/>
+</svg>
