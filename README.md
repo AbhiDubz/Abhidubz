@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00e0d0&height=220&section=header&text=Abhiram%20Somisetty&fontColor=e6edf3&fontSize=50&fontAlignY=36&animation=twinkling&desc=%2F%2F%20building%20full-stack&descAlignY=58&descSize=18" alt="header banner" />
+<img width="100%" src="./assets/matrix-banner.svg" alt="Abhiram Somisetty — Matrix banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&center=true&vCenter=true&width=620&lines=From+options+pricing+to+sign-language+vision;Full-stack+products%2C+end+to+end;CS+%40+Paul+G.+Allen+School%2C+UW+Seattle;If+it's+interesting%2C+I'll+build+it" alt="Typing SVG" />
