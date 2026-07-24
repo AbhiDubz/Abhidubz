@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 Whoami
+### 👋 Who am I
 
 I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems that don't fit in one box — from real-time finance tools to computer-vision apps that run right in the browser. I build across the whole stack and care about things that actually ship and actually run.
 
