@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="100%" role="img" aria-label="Let's build something great">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" width="100%" role="img" aria-label="Thanks for scrolling — abhirams.dev">
   <defs>
     <style>
-      @keyframes fA { 0%,100% { transform: translate(0,0); }  50% { transform: translate(40px,18px); } }
-      @keyframes fB { 0%,100% { transform: translate(0,0); }  50% { transform: translate(-38px,-16px); } }
-      @keyframes fC { 0%,100% { transform: translate(0,0); }  50% { transform: translate(30px,-20px); } }
-      @keyframes fpulse { 0%,100% { opacity: .8; } 50% { opacity: 1; } }
+      @keyframes fA { 0%,100% { transform: translate(0,0); }  50% { transform: translate(34px,12px); } }
+      @keyframes fB { 0%,100% { transform: translate(0,0); }  50% { transform: translate(-30px,-12px); } }
+      @keyframes fC { 0%,100% { transform: translate(0,0); }  50% { transform: translate(26px,-14px); } }
+      @keyframes fpulse { 0%,100% { opacity: .55; } 50% { opacity: .72; } }
       .fbA { animation: fA 18s ease-in-out infinite, fpulse 10s ease-in-out infinite; }
       .fbB { animation: fB 22s ease-in-out infinite, fpulse 12s ease-in-out infinite; }
       .fbC { animation: fC 16s ease-in-out infinite, fpulse 9s ease-in-out infinite; }
@@ -17,27 +17,24 @@
       <stop offset="0%"  stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#22d3ee"/>
     </linearGradient>
-    <radialGradient id="fViolet"><stop offset="0%" stop-color="#7c3aed" stop-opacity="0.5"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
-    <radialGradient id="fIndigo"><stop offset="0%" stop-color="#4f46e5" stop-opacity="0.5"/><stop offset="100%" stop-color="#4f46e5" stop-opacity="0"/></radialGradient>
-    <radialGradient id="fCyan"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0.45"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <radialGradient id="fViolet"><stop offset="0%" stop-color="#7c3aed" stop-opacity="0.32"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <radialGradient id="fIndigo"><stop offset="0%" stop-color="#4f46e5" stop-opacity="0.32"/><stop offset="100%" stop-color="#4f46e5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="fCyan"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0.3"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
     <filter id="fsoft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="42"/></filter>
   </defs>
 
-  <rect width="1200" height="140" fill="url(#fbg)"/>
+  <rect width="1200" height="96" fill="url(#fbg)"/>
 
   <g filter="url(#fsoft)">
-    <circle class="fbA" cx="360" cy="30"  r="160" fill="url(#fViolet)"/>
-    <circle class="fbB" cx="700" cy="120" r="180" fill="url(#fIndigo)"/>
-    <circle class="fbC" cx="940" cy="20"  r="150" fill="url(#fCyan)"/>
+    <circle class="fbA" cx="360" cy="30" r="150" fill="url(#fViolet)"/>
+    <circle class="fbB" cx="700" cy="80" r="165" fill="url(#fIndigo)"/>
+    <circle class="fbC" cx="940" cy="20" r="140" fill="url(#fCyan)"/>
   </g>
 
   <!-- top accent rule (mirrors header) -->
   <rect x="0" y="0" width="1200" height="3" fill="url(#faccent)"/>
 
-  <text x="600" y="66" text-anchor="middle"
+  <text x="600" y="56" text-anchor="middle"
         font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
-        font-size="26" font-weight="700" fill="#eaf0fb" letter-spacing="0.5">Let&#8217;s build something great</text>
-  <text x="600" y="98" text-anchor="middle"
-        font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif"
-        font-size="14" font-weight="500" fill="#8797b4" letter-spacing="1.5">abhirams.dev  &#183;  open to internships &amp; collaborations</text>
+        font-size="18" font-weight="600" fill="#c7d2e6" letter-spacing="1">Thanks for scrolling &#8212; abhirams.dev &#8599;</text>
 </svg>
