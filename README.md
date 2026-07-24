@@ -6,7 +6,7 @@
 
 I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems that don't fit in one box — from real-time finance tools to computer-vision apps that run right in the browser. I build across the whole stack and care about things that actually ship and actually run.
 
-📍 Seattle, WA · 🎓 Class of 2023 · 🌐 [abhirams.dev](https://abhirams.dev/) · 🤝 Open to internships & collabs
+📍 Seattle, WA · 🎓 Class of 2030 · 🌐 [abhirams.dev](https://abhirams.dev/) · 🤝 Open to internships & collabs
 
 ---
 
