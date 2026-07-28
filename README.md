@@ -14,6 +14,7 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
 
 | Project | What it does |
 |---|---|
+| 💿 **Vinyl** | iOS app that turns your camera roll into a styled, music-matched story collage |
 | ⚡ **Optera** | Real-time options pricing — Black-Scholes engine with interactive charts |
 | 👟 **SoleTrack** | Sneaker collection tracker with cross-market pricing & alerts |
 | 🏠 **DormScape** | 3D dorm planner with furniture layout and budgeting |
@@ -32,6 +33,8 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
