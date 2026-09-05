@@ -4,7 +4,7 @@
 
 ### 👋 About
 
-I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems that don't fit in one box — from real-time finance tools to computer-vision apps that run right in the browser. I build across the whole stack and care about things that actually ship and actually run.
+I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems that don't fit in one box — from storage engines and cluster schedulers to computer-vision apps that run right in the browser. I build across the whole stack and care about things that actually ship and actually run.
 
 📍 Seattle, WA · 🎓 Class of 2030 · 🌐 [abhirams.dev](https://abhirams.dev/) · 🤝 Open to internships & collabs
 
@@ -12,15 +12,23 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
 
 ### 🛠️ Things I've Built
 
+**Systems & infra**
+
+| Project | What it is |
+|---|---|
+| 🪨 **[Cairn](https://github.com/AbhiDubz/Cairn---LSM-Tree-Storage-Engine)** | Embedded LSM-tree key-value storage engine in C++20 — WAL, leveled compaction, Bloom filters, and a 10,000-scenario deterministic crash-fault harness |
+| ⚙️ **[Marshall](https://github.com/AbhiDubz/Marshall)** | SLURM-style distributed batch job scheduler in Go — backfill & gang scheduling, exactly-once dispatch, deterministic cluster simulator |
+| 🛡️ **[Warden](https://github.com/AbhiDubz/Warden)** | Infrastructure asset inventory & governance service in Go — concurrent collectors, YAML security policies, severity-scored violations |
+
+**Apps**
+
 | Project | What it does |
 |---|---|
-| 💿 **Vinyl** | iOS app that turns your camera roll into a styled, music-matched story collage |
-| ⚡ **Optera** | Real-time options pricing — Black-Scholes engine with interactive charts |
-| 👟 **SoleTrack** | Sneaker collection tracker with cross-market pricing & alerts |
-| 🏠 **DormScape** | 3D dorm planner with furniture layout and budgeting |
-| 🧥 **Outfit** | AI wardrobe stylist that builds outfits from photos of your closet |
-| 🤟 **Signa** | In-browser American Sign Language recognition over webcam |
-| 🎵 **VibeSound** | Mood-to-music translator that generates playlists from emotions |
+| 💿 **[Vinyl](https://github.com/AbhiDubz/Vinyl)** | iOS app that turns your camera roll into a styled, music-matched story collage |
+| 🎭 **[LarpBot](https://github.com/AbhiDubz/LarpBot)** | iOS app that briefs you before any social situation — grounded AI briefings streamed from a Supabase edge function |
+| ⚡ **[Optera](https://github.com/AbhiDubz/Optera)** | Real-time options pricing — Black-Scholes engine with interactive charts |
+| 🤟 **[Signa](https://github.com/AbhiDubz/Signa)** | In-browser American Sign Language recognition over webcam |
+| 👟 **[SoleTrack](https://github.com/AbhiDubz/SoleTrack)** | Sneaker collection tracker with cross-market pricing & alerts |
 
 <sub>More at **[abhirams.dev](https://abhirams.dev/)** →</sub>
 
@@ -39,6 +47,8 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **ML / Backend**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -47,6 +57,7 @@ I'm a CS student at the **Paul G. Allen School, UW Seattle** who likes problems 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Data / Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
